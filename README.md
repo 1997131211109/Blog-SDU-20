@@ -32,7 +32,7 @@ pip install -r requirements.txt
 8. Start the development server:
 flask run
 
-9. Access the application in your web browser at `http://localhost:5000`.
+9. Access the application in your web browser at `http://127.0.0.1:5000`.
 
 
 ## Email Testing with Mailtrap
