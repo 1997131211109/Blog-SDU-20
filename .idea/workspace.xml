@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fd0f6e3d-0c3b-4561-bde2-59f521c688a1" name="Changes" comment="new flast">
+    <list default="true" id="fd0f6e3d-0c3b-4561-bde2-59f521c688a1" name="Changes" comment="testing test">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,8 +49,23 @@
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
-  <component name="RunManager">
-    <configuration name="pytest" type="tests" factoryName="py.test" nameIsGenerated="true">
+  <component name="RunManager" selected="Python tests.Unittests">
+    <configuration name="Python tests in bin" type="tests" factoryName="Autodetect" nameIsGenerated="true">
+      <module name="Blog-SDU-20" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="C:\Users\USer\PycharmProjects\Blog-SDU-20\venv\Scripts\python.exe" />
+      <option name="SDK_NAME" value="Python 3.10 (Blog-SDU-20)" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests" type="tests" factoryName="Unittests" nameIsGenerated="true">
       <module name="Blog-SDU-20" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -60,13 +75,16 @@
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_keywords" value="&quot;&quot;" />
-      <option name="_new_parameters" value="&quot;&quot;" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_pattern" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;GET&quot;" />
       <option name="_new_target" value="&quot;&quot;" />
       <option name="_new_targetType" value="&quot;CUSTOM&quot;" />
       <method v="2" />
     </configuration>
+    <list>
+      <item itemvalue="Python tests.Unittests" />
+      <item itemvalue="Python tests.Python tests in bin" />
+    </list>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -119,7 +137,14 @@
       <option name="project" value="LOCAL" />
       <updated>1686162854372</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="testing test">
+      <created>1686167643642</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1686167643642</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -139,6 +164,7 @@
     <MESSAGE value="Test work from develop" />
     <MESSAGE value="Test work from develop mist" />
     <MESSAGE value="new flast" />
-    <option name="LAST_COMMIT_MESSAGE" value="new flast" />
+    <MESSAGE value="testing test" />
+    <option name="LAST_COMMIT_MESSAGE" value="testing test" />
   </component>
 </project>
