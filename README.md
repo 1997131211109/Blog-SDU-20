@@ -5,7 +5,7 @@ Petrenko Denys IH.m-26
 1. Ensure Python is installed. You can download it from the official Python website: [Python Downloads](https://www.python.org/downloads/)
 
 2. Clone the repository:
-git clone https://github.com/StanislavSol60/blog-sumdu.edu.git
+git clone https://github.com/1997131211109/Blog-SDU-20
 
 3. Navigate to the project directory
 
