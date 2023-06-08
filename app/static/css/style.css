@@ -26,7 +26,7 @@
     color: #274e13 !important;
 }
 .index-post-label:hover  {
-    text-decoration: underline
+    text-decoration: underline ;
 }
 
 .index-post-button {
@@ -34,7 +34,7 @@
 }
 
 .post-line {
-    background-color: #db5c2b ;
+    background-color: #38761d ;
 }
 
 .create-date-block {
@@ -43,5 +43,40 @@
 
 .create-date {
     font-size: 0.85rem;
+}
+
+
+.ap-base {
+    background-color: #87bef0 !important;
+}
+
+.input.is-medium,.textarea.is-medium {
+    font-size: 1.1rem !important;
+}
+
+.hero.is-primary .title {
+    color: #363636 !important ;
+}
+
+.hero.is-primary a:not(.button):not(.dropdown-item):not(.tag),.hero.is-primary strong {
+    color: #363636 !important ;
+}
+
+.button.is-medium {
+    font-size: 1.1rem !important ;
+}
+
+.button.is-large {
+    font-size: 1.1rem !important ;
+}
+
+.button.is-info {
+    background-color: #f2e40c;
+    border-color: transparent;
+    color: #000000 !important ;
+}
+
+.input.is-large, .textarea.is-large {
+    font-size: 1rem !important;
 }
 
