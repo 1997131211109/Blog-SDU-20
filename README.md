@@ -1,4 +1,4 @@
-# blog-sumdu.edu
+# Blog-SDU
 Petrenko Denys IH.m-26
 
 ## Installation
