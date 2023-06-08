@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fd0f6e3d-0c3b-4561-bde2-59f521c688a1" name="Changes" comment="testing test 0.3.0">
+    <list default="true" id="fd0f6e3d-0c3b-4561-bde2-59f521c688a1" name="Changes" comment="work form test">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -121,7 +121,14 @@
       <option name="project" value="LOCAL" />
       <updated>1686168665158</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="work form test">
+      <created>1686209321651</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1686209321651</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -143,6 +150,7 @@
     <MESSAGE value="new flast" />
     <MESSAGE value="testing test" />
     <MESSAGE value="testing test 0.3.0" />
-    <option name="LAST_COMMIT_MESSAGE" value="testing test 0.3.0" />
+    <MESSAGE value="work form test" />
+    <option name="LAST_COMMIT_MESSAGE" value="work form test" />
   </component>
 </project>
