@@ -34,7 +34,7 @@
 }
 
 .post-line {
-    background-color: #db5c2b ;
+    background-color: #38761d ;
 }
 
 .create-date-block {
@@ -45,6 +45,32 @@
     font-size: 0.85rem;
 }
 
-.hero-blue {
-    color: #87bef0 !important ;
+.ap-base {
+    background-color: #87bef0 !important;
+}
+
+.input.is-medium,.textarea.is-medium {
+    font-size: 1.1rem !important;
+}
+
+.hero.is-primary .title {
+    color: #363636 !important ;
+}
+
+.hero.is-primary a:not(.button):not(.dropdown-item):not(.tag),.hero.is-primary strong {
+    color: #363636 !important ;
+}
+
+.button.is-medium {
+    font-size: 1.1rem !important ;
+}
+
+.button.is-large {
+    font-size: 1.1rem !important ;
+}
+
+.button.is-info {
+    background-color: #f2e40c;
+    border-color: transparent;
+    color: #000000 !important ;
 }
