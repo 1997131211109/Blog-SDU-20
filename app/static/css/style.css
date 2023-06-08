@@ -1,5 +1,5 @@
 .post-textarea {
-    min-height: 200px !important;
+    min-height: 150px !important;
 }
 .post-input[readonly] {
   border: none;
@@ -23,7 +23,7 @@
     margin-bottom: 0 !important;
     font-size: 1.75rem;
     cursor: pointer;
-    color: #3273dc !important;
+    color: #274e13 !important;
 }
 .index-post-label:hover  {
     text-decoration: underline
@@ -34,7 +34,7 @@
 }
 
 .post-line {
-    background-color: #00d1b2;
+    background-color: #db5c2b ;
 }
 
 .create-date-block {
