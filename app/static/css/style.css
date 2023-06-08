@@ -45,6 +45,7 @@
     font-size: 0.85rem;
 }
 
+
 .ap-base {
     background-color: #87bef0 !important;
 }
@@ -78,3 +79,4 @@
 .input.is-large, .textarea.is-large {
     font-size: 1rem !important;
 }
+
