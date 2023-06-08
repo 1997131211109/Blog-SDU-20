@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fd0f6e3d-0c3b-4561-bde2-59f521c688a1" name="Changes" comment="color correct">
-      <change beforePath="$PROJECT_DIR$/.flaskenv" beforeDir="false" afterPath="$PROJECT_DIR$/.flaskenv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/routers/users.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/routers/users.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sample.flaskenv" beforeDir="false" afterPath="$PROJECT_DIR$/sample.flaskenv" afterDir="false" />
-    </list>
+    <list default="true" id="fd0f6e3d-0c3b-4561-bde2-59f521c688a1" name="Changes" comment="creat 0.4.1 for auto test" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -91,7 +84,14 @@
       <option name="project" value="LOCAL" />
       <updated>1686161770078</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="creat 0.4.1 for auto test">
+      <created>1686243655772</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1686243655772</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -109,6 +109,7 @@
     <MESSAGE value="0.2.0 for first" />
     <MESSAGE value="0.2.0 for second . resalt" />
     <MESSAGE value="start devrlop" />
-    <option name="LAST_COMMIT_MESSAGE" value="start devrlop" />
+    <MESSAGE value="creat 0.4.1 for auto test" />
+    <option name="LAST_COMMIT_MESSAGE" value="creat 0.4.1 for auto test" />
   </component>
 </project>

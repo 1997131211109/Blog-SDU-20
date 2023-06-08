@@ -60,7 +60,7 @@ It's recommended to set up a virtual environment and install the required depend
 
 Test coverage measures the percentage of code covered by the unit tests. It helps identify areas of code that are not adequately tested.
 To generate a test coverage report, you can use tools like `coverage.py`. Here's an example command:
-coverage run -m unittest discover -s app/tests
+coverage run -m unittest discover -s app/tests . 
 
 After running the tests, you can generate a coverage report using the following command:
 
