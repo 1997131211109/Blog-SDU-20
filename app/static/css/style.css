@@ -26,7 +26,7 @@
     color: #274e13 !important;
 }
 .index-post-label:hover  {
-    text-decoration: underline
+    text-decoration: underline ;
 }
 
 .index-post-button {
@@ -46,5 +46,5 @@
 }
 
 .hero-den {
-    background-color: #5cb9ef !important ;
+    color: #5cb9ef !important ;
 }
