@@ -1,11 +1,11 @@
 # blog-sumdu.edu
-Solonina Stanislav IH.m-26
+Petrenko Denys IH.m-26
 
 ## Installation
 1. Ensure Python is installed. You can download it from the official Python website: [Python Downloads](https://www.python.org/downloads/)
 
 2. Clone the repository:
-git clone https://github.com/StanislavSol60/blog-sumdu.edu.git
+git clone https://github.com/1997131211109/Blog-SDU-20.git
 
 3. Navigate to the project directory
 
@@ -32,7 +32,7 @@ pip install -r requirements.txt
 8. Start the development server:
 flask run
 
-9. Access the application in your web browser at `http://localhost:5000`.
+9. Access the application in your web browser at `http://127.0.0.1:5000/`.
 
 
 ## Email Testing with Mailtrap
