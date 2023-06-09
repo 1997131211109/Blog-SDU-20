@@ -1,11 +1,11 @@
-# Blog-SDU-20
-Petrenko Denys IH.m-26
+# blog-sumdu.edu
+Solonina Stanislav IH.m-26
 
 ## Installation
 1. Ensure Python is installed. You can download it from the official Python website: [Python Downloads](https://www.python.org/downloads/)
 
 2. Clone the repository:
-git clone https://github.com/1997131211109/Blog-SDU-20.git
+git clone https://github.com/StanislavSol60/blog-sumdu.edu.git
 
 3. Navigate to the project directory
 
@@ -32,7 +32,7 @@ pip install -r requirements.txt
 8. Start the development server:
 flask run
 
-9. Access the application in your web browser at `http://127.0.0.1:5000`.
+9. Access the application in your web browser at `http://localhost:5000`.
 
 
 ## Email Testing with Mailtrap
@@ -56,7 +56,7 @@ python -m unittest discover -s app/tests/unit
 This command will automatically discover and execute all the unit test files located in the `app/tests/unit` directory.
 It's recommended to set up a virtual environment and install the required dependencies before running the unit tests.
 
-# Test Coverage
+## Test Coverage
 
 Test coverage measures the percentage of code covered by the unit tests. It helps identify areas of code that are not adequately tested.
 To generate a test coverage report, you can use tools like `coverage.py`. Here's an example command:

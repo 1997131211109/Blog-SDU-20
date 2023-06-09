@@ -5,7 +5,29 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fd0f6e3d-0c3b-4561-bde2-59f521c688a1" name="Changes" comment="creat 0.4.1 for auto test">
+      <change beforePath="$PROJECT_DIR$/.circleci/config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.circleci/config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_07_06_2023_21_15__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_07_06_2023_21_15__Changes_.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/forms/comments.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/forms/comments.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/forms/posts.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/forms/posts.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/forms/users.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/forms/users.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/models/comments.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/models/comments.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/models/posts.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/models/posts.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/models/users.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/models/users.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/routers/comments.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/routers/comments.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/routers/posts.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/routers/posts.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/routers/users.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/routers/users.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/tests/selenium/test_comments.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/tests/selenium/test_comments.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/tests/selenium/test_posts.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/tests/selenium/test_posts.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/tests/selenium/test_users.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/tests/selenium/test_users.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/tests/unit/test_comments.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/tests/unit/test_comments.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/tests/unit/test_posts.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/tests/unit/test_posts.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/tests/unit/test_users.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/tests/unit/test_users.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample.flaskenv" beforeDir="false" afterPath="$PROJECT_DIR$/sample.flaskenv" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
